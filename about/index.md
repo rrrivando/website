@@ -1,24 +1,17 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+title: About Ryan
+tags: [about, Ryan, Rivando]
+date: 2023-04-24
 comments: false
 ---
     
 <center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
 
 ## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+* Recent graduate from Western University MLIS program
+* *Scholars Portal* Virtual Reference Operator
+* *Fort Erie Public Library* Assistant Librarian
 
 ## Preview
 
