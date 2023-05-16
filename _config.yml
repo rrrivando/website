@@ -8,7 +8,7 @@ logo:               'assets/img/Ryan.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                https://rrrivando.github.io/website/
+url:                www.ryanrivando.com
 
 # Jekyll
 permalink:          /:title/
@@ -37,7 +37,7 @@ disqus_shortname:
   #ad-client:
   #ad-slot:
 #bing-verify:
-#email:
+#email:             hello@ryanrivando.com
 twitter:            rrrivando
 facebook:           #username
 github-url:         rrrivando
