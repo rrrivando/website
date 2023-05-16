@@ -9,9 +9,9 @@ comments: false
 <center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
 
 ## Features
-* Recent graduate from Western University MLIS program
-* *Scholars Portal* Virtual Reference Operator
-* *Fort Erie Public Library* Assistant Librarian
+* Recent graduate from Western University MLIS program (April 2023)
+* Scholars Portal *Virtual Reference Operator*
+* Fort Erie Public Library *Assistant Librarian*
 
 ## Preview
 
@@ -23,8 +23,6 @@ comments: false
 
 See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
 
-## Getting Started
-
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
+## Check out my CV
       
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+[Ryan's CV](https://github.com/TaylanTatli/Moon){: .btn}
