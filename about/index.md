@@ -25,4 +25,4 @@ See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub
 
 ## Check out my CV
       
-[Ryan's CV](https://github.com/TaylanTatli/Moon){: .btn}
+[Ryan's CV](rrrivando.github.io/website/assets/RyanRivandoCV.pdf){: .btn}
